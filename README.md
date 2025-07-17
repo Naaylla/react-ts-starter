@@ -53,5 +53,5 @@ npm run format
 
 ## Contributing
 
-Pull requests are welcome! <333 Feel free to fork this repo or suggest features.
+Pull requests are welcome! ❤️ Feel free to fork this repo or suggest features.
 
